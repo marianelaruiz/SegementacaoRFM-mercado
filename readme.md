@@ -2,7 +2,7 @@
 # 🚲 Segmentação "O mercado: BOA" 🚲
 
 ### **Table of Contents**
-- [🚲 Segmentação "O mercado: BOA" 🚲](#-segmentacao-mercado-boa)
+- [🚲 Segmentação "O mercado" 🚲](#-segmentacao-mercado-boa)
     - [**Table of Contents**](#table-of-contents)
   - [**Introdução**](#introdução)
   - [**Objetivo**](#objetivo)
@@ -49,6 +49,7 @@ Esse objetivo é alcançado por meio dos seguintes subobjetivos:
 ## **Ferramentas e Tecnologias**
 - Ferramentas de anotações - Notion: https://www.notion.so/Laboratoria-480a7301ad034cd2b0710147b70d011d?pvs=4 
 - ferramentas de visualização : Spreadsheets(Google Planilhas)
+Ferramenta do documentação e explicação do projeto - GitHub: https://github.com/marianelaruiz/SegementacaoRFM-mercado
 
 
 
