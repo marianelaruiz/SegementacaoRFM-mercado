@@ -93,25 +93,6 @@ A identificação dos perfis dos clientes revelou que há clientes não rentáve
 
 ---
 
-## **Results and conclusions**
-
-Com base na análise realizada, foram observadas várias descobertas interessantes.
-
-- There is a correlation between the amount of rentals and the weather based on the degrees. The service is used more frequently when the weather is good, and temperatures are moderate. Secondly, the service is used more frequently between June and August, which are typically the months with better weather in Helsinki and Espoo.
-
-- There are spikes in the total amount of rentals early in the morning when people usually want to get to work or to school and also in the afternoon when people come back from school and work. This indicates that the service is mainly used for commuting purposes.
-
-- People travel more than 1M km per season with the bike system, which has a significant impact on how people move around the city in a more sustainable way.
-
-- The busiest stations where there are more departures and returns. The busiest stations are Itämerentori, Kamppi, and Töölönlahdenkatu.
-
-
-Additionally, the results indicate that the bike-sharing system has a significant impact on how people move around the city in a more sustainable way. The insights obtained from this analysis can be used to inform policy decisions related to transportation and urban planning in the region.
-
----
-
-
-
 ## ** Painel de controle (dashboard) no Google Sheets**
 
 https://docs.google.com/spreadsheets/d/11CILRgakAJyvLFDcvDcnb_asMjqLUU8M35V0dQN5ItU/edit#gid=1023444668
