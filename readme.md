@@ -48,7 +48,7 @@ Esse objetivo é alcançado por meio dos seguintes subobjetivos:
 ---
 
 ## **Ferramenta e Tecnologias**
-- Ferramentas de anotações: Notion
+- Ferramentas de anotações - Notion: https://www.notion.so/Laboratoria-480a7301ad034cd2b0710147b70d011d?pvs=4 
 - ferramentas de visualização : Spreadsheets(Google Planilhas)
 
 
@@ -120,8 +120,9 @@ Additionally, the results indicate that the bike-sharing system has a significan
 ---
 
 
+
 ## ** Painel de controle (dashboard) no Google Sheets**
 
 https://docs.google.com/spreadsheets/d/11CILRgakAJyvLFDcvDcnb_asMjqLUU8M35V0dQN5ItU/edit#gid=1023444668
 
-<img src="img/dashboard-mercado.png" alt="Alt text" width="500" height="500">
+<img src="img/dashboard-mercado.png" alt="Alt text" width="800" height="500">
