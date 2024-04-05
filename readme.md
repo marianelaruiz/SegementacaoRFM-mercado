@@ -86,13 +86,9 @@ Com base na análise realizada neste projeto, por meio da segmentação RFM, pod
 
 A identificação dos perfis dos clientes revelou que há clientes não rentáveis e inativos, bem como clientes nos quais a empresa precisa investir mais tempo e recursos. Embora a interpretação dos segmentos seja subjetiva, não há dúvida de que as informações obtidas podem ser de grande valia para a empresa e podem ser usadas para criar campanhas de marketing focadas nos segmentos identificados, que têm um grau maior de aceitação.
 
-Por outro lado, observou-se que a maioria dos clientes não aceitou a campanha de marketing enviada e apenas 15% dos clientes responderam à campanha de marketing. Isso pode ser devido a diferentes fatores, como:
-
-  - Relevância da mensagem: é possível que a mensagem não tenha sido relevante ou atraente o suficiente para a maioria dos clientes. Seria útil realizar pesquisas ou análises de feedback para entender as preferências dos clientes e ajustar a mensagem de acordo.
-
-  - Falta de personalização: se a mensagem não foi adaptada às necessidades individuais dos clientes ou não foi adequadamente personalizada, é provável que tenha sido ignorada por muitos. A personalização pode aumentar a eficácia da campanha.
-
-  - Saturação do canal: se os clientes recebem mensagens de marketing com frequência pelo mesmo canal (por exemplo, e-mail), eles podem estar insensíveis ou ignorando ativamente essas mensagens. Pode ser útil explorar outros canais de comunicação ou variar a frequência das mensagens.
+- A análise revela que a taxa de resposta à campanha de marketing foi baixa, com apenas 15% dos clientes participando ativamente. Isso sugere áreas significativas para aprimoramento da estratégia de marketing, incluindo a personalização da mensagem e a diversificação dos canais de comunicação.
+  
+- A análise revela que o vinho é o produto mais popular entre os clientes, com uma proporção significativamente maior de vendas em comparação com outros produtos disponíveis. Essa constatação sugere oportunidades para capitalizar a demanda por vinho e adaptar as estratégias comerciais para maximizar a receita e a satisfação do cliente.
 
 
 ---
