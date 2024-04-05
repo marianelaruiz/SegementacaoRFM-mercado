@@ -90,6 +90,8 @@ A identificação dos perfis dos clientes revelou que há clientes não rentáve
   
 - A análise revela que o vinho é o produto mais popular entre os clientes, com uma proporção significativamente maior de vendas em comparação com outros produtos disponíveis. Essa constatação sugere oportunidades para capitalizar a demanda por vinho e adaptar as estratégias comerciais para maximizar a receita e a satisfação do cliente.
 
+- A análise demográfica revela que a maioria dos clientes é casada e mais velhos. Isso sugere uma oportunidade de desenvolver estratégias de marketing e produtos que se concentrem nas necessidades e preferências desse grupo demográfico específico, o que poderia levar a uma maior retenção de clientes e maior receita.
+
 
 ---
 
