@@ -51,7 +51,10 @@ Esse objetivo é alcançado por meio dos seguintes subobjetivos:
 - ferramentas de visualização : Spreadsheets(Google Planilhas)
 - Ferramenta do documentação e explicação do projeto - GitHub: https://github.com/marianelaruiz/SegementacaoRFM-mercado
 
+---
 
+## **Fontes de dados**
+- Principal fonte de dados: https://drive.google.com/drive/folders/1forAVve6QP25VcWgZjA1G7r_WRP-SyEq
 
 ---
 
@@ -81,41 +84,6 @@ Seguindo essas etapas, conseguimos garantir que nossos dados fossem confiáveis 
 Apresenta os principais resultados obtidos a partir da análise de dados. 
 Sumarize as conclusões tiradas do projeto, incluindo insights importantes, 
 descobertas relevantes e possíveis recomendações.
-
----
-
-
-## **Fontes de dados**
-- Principal fonte de dados: https://drive.google.com/drive/folders/1forAVve6QP25VcWgZjA1G7r_WRP-SyEq
-
-
----
-
-## **Data Exploration and Analyisis**
-
-I conducted several steps to prepare the data for analysis, including:
-
-- Treated null values by either removing them or imputing values where appropriate.
-- Changed some metrics from meters (m) to kilometers (km) and from seconds (sec) to minutes (min) to make the data more user-friendly.
-- Added specific columns that show the year, month, weekday, and hour of each rental to help with time-based analysis.
-- Added "total_rentals" column based on "departures".
-- Removed outliers, especially for distance and duration. I found some extreme values that were likely errors in the device that stores the bike metrics, so I removed them to improve the accuracy of the analysis.
-- Dropped the column that shows the average speed in kilometers per hour because it had too many outliers and was not important for our analysis.
-- Saved the clean data in a new file (clean_data.csv) that is now ready for prediction.
-  
-By taking these steps, we were able to ensure that our data was reliable and well-prepared for analysis.
-
----
-
-## **Prediction**
-
-In this project, one of my goals was to predict the total number of bike rentals without using a linear regression model. To do this, I first checked the distribution of the columns and realized that some were skewed, so I applied algorithmic transformation to these columns.
-
-Next, I used an encoder to encode the categorical columns, and applied both the standard scaler and MinMax scaler to standardize the values and put them in the same range for the model.
-
-After treating the data, I built the model. I printed out various metrics, such as R^2 score, mean squared error, root mean squared error, and mean absolute error. And visualized the performance of the model with a scatterplot.
-
-Overall, the model performed well and provided accurate predictions for the total number of bike rentals.
 
 ---
 
