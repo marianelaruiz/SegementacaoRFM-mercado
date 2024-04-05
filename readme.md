@@ -86,6 +86,14 @@ Com base na análise realizada neste projeto, por meio da segmentação RFM, pod
 
 A identificação dos perfis dos clientes revelou que há clientes não rentáveis e inativos, bem como clientes nos quais a empresa precisa investir mais tempo e recursos. Embora a interpretação dos segmentos seja subjetiva, não há dúvida de que as informações obtidas podem ser de grande valia para a empresa e podem ser usadas para criar campanhas de marketing focadas nos segmentos identificados, que têm um grau maior de aceitação.
 
+Por otra parte, se observó que la mayoría de los clientes no aceptaron la campaña de marketing enviada y solo el 15% de los clientes respondieron a la campaña de marketing. Esto puede ser debido a diferentes factores como por ejemplo:
+
+Relevancia del Mensaje: Es posible que el mensaje no fuera lo suficientemente relevante o atractivo para la mayoría de los clientes. Sería útil realizar encuestas o análisis de retroalimentación para comprender las preferencias de los clientes y ajustar el mensaje en consecuencia.
+
+Falta de Personalización: Si el mensaje no se adaptó a las necesidades individuales de los clientes o no se personalizó adecuadamente, es probable que muchos lo hayan ignorado. La personalización puede aumentar la efectividad de la campaña.
+
+Saturación del Canal: Si los clientes reciben frecuentemente mensajes de marketing a través del mismo canal (por ejemplo, correo electrónico), es posible que estén desensibilizados o ignorando activamente estos mensajes. Sería útil explorar otros canales de comunicación o variar la frecuencia de los mensajes.
+
 
 ---
 
