@@ -2,8 +2,7 @@
 # 🚲 Segmentação "O mercado"" 🚲
 
 ### **Table of Contents**
-- [🚲 Segmentação "O mercado" 🚲](#-segmentacao-mercado-boa)
-    - [**Table of Contents**](#table-of-contents)
+- [🚲 Segmentação "O mercado" 🚲](#-segmentacao-mercado)    
   - [**Introdução**](#introdução)
   - [**Objetivo**](#objetivo)
   - [**Equipe**](#equipe)
@@ -81,7 +80,7 @@ Seguindo essas etapas, conseguimos garantir que nossos dados fossem confiáveis 
 ---
 
 ## **Resultados e Conclusões**
-Apresenta os principais resultados obtidos a partir da análise de dados. 
+ 
 Com base na análise realizada neste projeto, por meio da segmentação RFM, podemos conhecer o perfil dos clientes da empresa "O Mercado". Para isso, foi analisado o histórico de compras de cada cliente, decidiu-se segmentar os clientes por seu comportamento de compra, como os últimos dias de compra do cliente, a frequência de compras e quanto esse cliente gastou.
 
 - A identificação dos perfis dos clientes revelou que há clientes não rentáveis e inativos, bem como clientes nos quais a empresa precisa investir mais tempo e recursos. Embora a interpretação dos segmentos seja subjetiva, não há dúvida de que as informações obtidas podem ser de grande valia para a empresa e podem ser usadas para criar campanhas de marketing focadas nos segmentos identificados, que têm um grau maior de aceitação.
