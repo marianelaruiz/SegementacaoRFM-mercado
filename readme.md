@@ -86,13 +86,13 @@ Com base na análise realizada neste projeto, por meio da segmentação RFM, pod
 
 A identificação dos perfis dos clientes revelou que há clientes não rentáveis e inativos, bem como clientes nos quais a empresa precisa investir mais tempo e recursos. Embora a interpretação dos segmentos seja subjetiva, não há dúvida de que as informações obtidas podem ser de grande valia para a empresa e podem ser usadas para criar campanhas de marketing focadas nos segmentos identificados, que têm um grau maior de aceitação.
 
-Por otra parte, se observó que la mayoría de los clientes no aceptaron la campaña de marketing enviada y solo el 15% de los clientes respondieron a la campaña de marketing. Esto puede ser debido a diferentes factores como por ejemplo:
+Por outro lado, observou-se que a maioria dos clientes não aceitou a campanha de marketing enviada e apenas 15% dos clientes responderam à campanha de marketing. Isso pode ser devido a diferentes fatores, como:
 
-Relevancia del Mensaje: Es posible que el mensaje no fuera lo suficientemente relevante o atractivo para la mayoría de los clientes. Sería útil realizar encuestas o análisis de retroalimentación para comprender las preferencias de los clientes y ajustar el mensaje en consecuencia.
+  - Relevância da mensagem: é possível que a mensagem não tenha sido relevante ou atraente o suficiente para a maioria dos clientes. Seria útil realizar pesquisas ou análises de feedback para entender as preferências dos clientes e ajustar a mensagem de acordo.
 
-Falta de Personalización: Si el mensaje no se adaptó a las necesidades individuales de los clientes o no se personalizó adecuadamente, es probable que muchos lo hayan ignorado. La personalización puede aumentar la efectividad de la campaña.
+  - Falta de personalização: se a mensagem não foi adaptada às necessidades individuais dos clientes ou não foi adequadamente personalizada, é provável que tenha sido ignorada por muitos. A personalização pode aumentar a eficácia da campanha.
 
-Saturación del Canal: Si los clientes reciben frecuentemente mensajes de marketing a través del mismo canal (por ejemplo, correo electrónico), es posible que estén desensibilizados o ignorando activamente estos mensajes. Sería útil explorar otros canales de comunicación o variar la frecuencia de los mensajes.
+  - Saturação do canal: se os clientes recebem mensagens de marketing com frequência pelo mesmo canal (por exemplo, e-mail), eles podem estar insensíveis ou ignorando ativamente essas mensagens. Pode ser útil explorar outros canais de comunicação ou variar a frequência das mensagens.
 
 
 ---
