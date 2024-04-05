@@ -1,5 +1,5 @@
 
-# 🚲 Segmentação "O mercado: BOA" 🚲
+# 🚲 Segmentação "O mercado"" 🚲
 
 ### **Table of Contents**
 - [🚲 Segmentação "O mercado" 🚲](#-segmentacao-mercado-boa)
