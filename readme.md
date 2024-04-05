@@ -4,13 +4,13 @@
 ### **Table of Contents**
 - [🚲 Segmentação "O mercado: BOA" 🚲](#-segmentacao-mercado-boa)
     - [**Table of Contents**](#table-of-contents)
-  - [**Introduction**](#introduction)
+  - [**Introdução**](#introducao)
   - [**Objetivo**](#objetivo)
   - [**Equipe**](#equipe)
-  - [**Ferramenta e Tecnologias**](#ferramentas-e-tecnologias)
+  - [**Ferramentas e Tecnologias**](#ferramentas-e-tecnologias)
   - [**Processamento e análises**](#rocessamento-e-análises)
   - [**Resultados e Conclusões**](#Resultados-e-Conclusões)
-  - [**Data Sources**](#data-sources)
+  - [**Fontes de dados**](#fonte-de-dados)
   - [**Data Exploration and Analyisis**](#data-exploration-and-analyisis)
   - [**Prediction**](#prediction)
   - [**Results and conclusions**](#results-and-conclusions)
@@ -18,7 +18,7 @@
 
 ---
 
-## **Introduction**
+## **Introdução**
 
 A loja “O Mercado” está num ambiente altamente competitivo e está experimentando mudanças significativas nas preferências dos consumidores. A fidelização do cliente tornou-se um desafio e a loja em questão está a procura de manter e aumentar o seu rendimento através de uma melhor compreensão de sua base de clientes e personalização de seas estratégias de marketing e retenção.
 
@@ -47,7 +47,7 @@ Esse objetivo é alcançado por meio dos seguintes subobjetivos:
  - Marianela Ruiz
 ---
 
-## **Ferramenta e Tecnologias**
+## **Ferramentas e Tecnologias**
 - Ferramentas de anotações - Notion: https://www.notion.so/Laboratoria-480a7301ad034cd2b0710147b70d011d?pvs=4 
 - ferramentas de visualização : Spreadsheets(Google Planilhas)
 
