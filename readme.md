@@ -89,7 +89,7 @@ descobertas relevantes e possíveis recomendações.
 
 ## **Results and conclusions**
 
-Based on the analysis performed, several interesting findings were observed.
+Com base na análise realizada, foram observadas várias descobertas interessantes.
 
 - There is a correlation between the amount of rentals and the weather based on the degrees. The service is used more frequently when the weather is good, and temperatures are moderate. Secondly, the service is used more frequently between June and August, which are typically the months with better weather in Helsinki and Espoo.
 
