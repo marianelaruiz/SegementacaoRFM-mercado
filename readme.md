@@ -10,9 +10,6 @@
   - [**Processamento e análises**](#rocessamento-e-análises)
   - [**Resultados e Conclusões**](#Resultados-e-Conclusões)
   - [**Fontes de dados**](#fonte-de-dados)
-  - [**Data Exploration and Analyisis**](#data-exploration-and-analyisis)
-  - [**Prediction**](#prediction)
-  - [**Results and conclusions**](#results-and-conclusions)
   - [**Google Sheets Dashboard**](#tableau-dashboard)
 
 ---
