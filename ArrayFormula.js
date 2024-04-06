@@ -45,10 +45,8 @@
 
 
 
-
 =SE(M2 < 30, "Jovens",
-    SE(M2 <= 50, "Adultos Jovens",
-        SE(M2 <= 70, "Adultos Mais Velhos",
-        SE(M2 <= 100, "Idosos", "")
+    SE(M2 <= 45, "Adultos Jovens",
+        SE(M2 <= 64, "Adultos Mais Velhos", "Idosos")
     )
-    ))
+)
