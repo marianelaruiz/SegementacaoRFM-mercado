@@ -2,7 +2,7 @@
 # 🚲 Segmentação "O mercado"" 🚲
 
 ### **Table of Contents**
-- [🚲 Segmentação "O mercado" 🚲](#-segmentacao-mercado)    
+- [🚲 Segmentação "O mercado"  mad 🚲](#-segmentacao-mercado)    
   - [**Introdução**](#introdução)
   - [**Objetivo**](#objetivo)
   - [**Equipe**](#equipe)
@@ -14,8 +14,8 @@
 
 ---
 
-## **Introdução** eg:fire  
-
+## **Introdução**
+ mad 
 A loja “O Mercado” está num ambiente altamente competitivo e está experimentando mudanças significativas nas preferências dos consumidores. A fidelização do cliente tornou-se um desafio e a loja em questão está a procura de manter e aumentar o seu rendimento através de uma melhor compreensão de sua base de clientes e personalização de seas estratégias de marketing e retenção.
 
 A estratégia escolhida pela loja é analisar suas vendas e segmentar a sua base de clientes usando a metodologia **RFM** (Recência,Frequência e Valor Monetário). Esta estratégia proporcionará a empresa uma importante vantagem competitiva, proporcionando uma profunda compreensão do comportamento de compra de seus clientes e permitirá tomar decisões estratégicas com base em dados.
