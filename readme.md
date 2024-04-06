@@ -6,10 +6,10 @@
   - [**Introdução**](#introdução)
   - [**Objetivo**](#objetivo)
   - [**Equipe**](#equipe)
+  - [**Fontes de dados**](#fonte-de-dados)
   - [**Ferramentas e Tecnologias**](#ferramentas-e-tecnologias)
   - [**Processamento e análises**](#rocessamento-e-análises)
-  - [**Resultados e Conclusões**](#Resultados-e-Conclusões)
-  - [**Fontes de dados**](#fonte-de-dados)
+  - [**Resultados e Conclusões**](#Resultados-e-Conclusões) 
   - [**Google Sheets Dashboard**](#tableau-dashboard)
 
 ---
@@ -69,7 +69,7 @@ Realizei várias etapas para preparar os dados para análise, incluindo:
 - Como nosso objetivo é agrupar os clientes por seu comportamento de compras, precisamos saber o número de dias desde que o cliente fez sua última compra (Recência), quantas vezes ele fez compras (Frequência) e quanto gastou em suas compras (Monetário). A segmentação RFM foi usada para obter essas variáveis. As variáveis obtidas serão usadas como insumos para a análise RFM, para determinar os grupos de clientes existentes na empresa.
 
 
-Seguindo essas etapas, conseguimos garantir que nossos dados fossem confiáveis e bem preparados para a análise.
+Seguindo essas etapas, consegui garantir que nossos dados fossem confiáveis e bem preparados para a análise.
 
 ---
 
