@@ -55,11 +55,8 @@ Esse objetivo é alcançado por meio dos seguintes subobjetivos:
 ---
 
 ## **Processamento e análises**
-Descreva os processos de limpeza e exploração dos dados, as técnicas de análises aplicadas, etc
-
-Exploração e análise de dados
 Realizei várias etapas para preparar os dados para análise, incluindo:
-1. processar e preparar o banco de dados: Nessa fase, os dados são preparados, o que envolve selecionar o subconjunto de dados a ser usado, limpar os dados para melhorar sua qualidade, adicionar novos dados para detectar possíveis problemas, como valores nulos, dados ausentes, dados duplicados etc. A partir de um banco de dados no Google Sheets, passamos por vários processos:
+
 - Identificar e lidar com valores nulos
 - Remover os clientes que não têm um identificador exclusivo.
 - Remover clientes que eram duplicados, deixando-os apenas uma vez.
