@@ -92,4 +92,4 @@ Com base na análise realizada neste projeto, por meio da segmentação RFM, pod
 
 https://docs.google.com/spreadsheets/d/11CILRgakAJyvLFDcvDcnb_asMjqLUU8M35V0dQN5ItU/edit#gid=1023444668
 
-<img src="img/Mercado-dashboard.png" alt="Alt text" width="800" height="500">
+<img src="img/img-dashboard.png" alt="Alt text" width="800" height="500">
