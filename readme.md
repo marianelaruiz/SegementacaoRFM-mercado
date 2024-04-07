@@ -89,7 +89,7 @@ Com base na análise realizada neste projeto, por meio da segmentação RFM, pod
 
 ---
 
-## ** Painel de controle (dashboard) no Google Sheets**
+## **Painel de controle (dashboard) no Google Sheets**
 
 https://docs.google.com/spreadsheets/d/11CILRgakAJyvLFDcvDcnb_asMjqLUU8M35V0dQN5ItU/edit#gid=1023444668
 
