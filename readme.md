@@ -10,7 +10,9 @@
   - [**Ferramentas e Tecnologias**](#ferramentas-e-tecnologias)
   - [**Processamento e análises**](#rocessamento-e-análises)
   - [**Resultados e Conclusões**](#Resultados-e-Conclusões) 
-  - [**Google Sheets Dashboard**](#tableau-dashboard)
+  - [**Google Sheets Dashboard**](#google-sheets-dashboard)
+  -[**Referências:**](#referências)
+   
 
 ---
 
@@ -95,3 +97,11 @@ Com base na análise realizada neste projeto, por meio da segmentação RFM, pod
 https://docs.google.com/spreadsheets/d/11CILRgakAJyvLFDcvDcnb_asMjqLUU8M35V0dQN5ItU/edit#gid=1023444668
 
 <img src="img/img-dashboard.png" alt="Alt text" width="800" height="500">
+
+---
+
+## **Referências**
+- https://medium.com/maxmilhas-tech/o-que-%C3%A9-rfm-e-como-aplic%C3%A1-lo-ao-seu-time-de-customer-service-b9c35817ed01
+- https://www.divia.com.br/o-que-e-a-matriz-rfm-analise-rfm-e-como-usar-analise-rfm-para-segmentacao-de-clientes
+- https://pt.wikipedia.org/wiki/RFM_(economia)
+- https://www.techtarget.com/searchdatamanagement/definition/RFM-analysis
