@@ -77,7 +77,9 @@ Seguindo essas etapas, consegui garantir que nossos dados fossem confiáveis e b
  
 Com base na análise realizada neste projeto, por meio da segmentação RFM, podemos conhecer o perfil dos clientes da empresa "O Mercado". Para isso, foi analisado o histórico de compras de cada cliente, decidiu-se segmentar os clientes por seu comportamento de compra, como os últimos dias de compra do cliente, a frequência de compras e quanto esse cliente gastou.
 
-- A identificação dos perfis dos clientes revelou que há clientes não rentáveis e inativos, bem como clientes nos quais a empresa precisa investir mais tempo e recursos. Embora a interpretação dos segmentos seja subjetiva, não há dúvida de que as informações obtidas podem ser de grande valia para a empresa e podem ser usadas para criar campanhas de marketing focadas nos segmentos identificados, que têm um grau maior de aceitação.
+- A identificação dos perfis dos clientes revelou que na base de dados, a maior concentração de clientes está nas categorias de clientes fiéis (sendo a que apresenta a maior porcentagem), depois clientes em risco de perda, perdidos e potencialmente fiéis. Bem como clientes nos quais a empresa deve investir mais tempo e recursos. Embora a interpretação dos segmentos seja subjetiva, não há dúvida de que as informações obtidas podem ser de grande valia para a empresa e podem ser usadas para criar campanhas de marketing focadas nos segmentos identificados, que têm maior grau de aceitação.
+
+Traduzido com a versão gratuita do tradutor - DeepL.com
 
 - A análise revela que a taxa de resposta à campanha de marketing foi baixa, com apenas 15% dos clientes participando ativamente. Isso sugere áreas significativas para aprimoramento da estratégia de marketing, incluindo a personalização da mensagem e a diversificação dos canais de comunicação.
   
