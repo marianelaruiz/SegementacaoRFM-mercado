@@ -1,5 +1,5 @@
 
-# 🥑 Segmentação "O mercado"" 🥑
+# 🥑 Segmentação "O mercado" 🥑
 
 ### **Table of Contents**
 - [🥑 Segmentação "O mercado" 🥑](#-segmentacao-mercado)    
@@ -13,8 +13,7 @@
   - [**Google Sheets Dashboard**](#tableau-dashboard)
 
 ---
-análise de dados para uma loja especializada em produtos alimentícios importados chamada El Mercado
-período de 30/07/2020 a 29/06/2022
+
 ## **Introdução**
 
 A loja “O Mercado” está num ambiente altamente competitivo e está experimentando mudanças significativas nas preferências dos consumidores. A fidelização do cliente tornou-se um desafio e a loja em questão está a procura de manter e aumentar o seu rendimento através de uma melhor compreensão de sua base de clientes e personalização de seas estratégias de marketing e retenção.
