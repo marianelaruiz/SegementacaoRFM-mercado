@@ -47,7 +47,7 @@ Esse objetivo é alcançado por meio dos seguintes subobjetivos:
 - ferramentas de visualização : Spreadsheets(Google Planilhas)
 - Ferramenta do documentação e explicação do projeto - GitHub: https://github.com/marianelaruiz/SegementacaoRFM-mercado
 - Apresentação - Google Slides: https://docs.google.com/presentation/d/1tsVgKR8MRm-sWEXOJffClDikv-GXRY18NPC_6vMoeeE/edit#slide=id.gc6f980f91_0_0
-- Vídeo - Loom : https://www.loom.com/share/d2ce1adfdab34980a211f4889d710d8d?sid=cdd40b56-5513-44e9-aa8b-3b35f964b47d
+- Vídeo - Loom : https://www.loom.com/share/d2ce1adfdab34980a211f4889d710d8d?sid=198a09db-709a-4eef-bd31-214695b9c99f
 
 ---
 
