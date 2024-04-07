@@ -86,7 +86,6 @@ Com base na análise realizada neste projeto, por meio da segmentação RFM, pod
 
 - A análise demográfica revela que a maioria dos clientes é casada e mais velhos. Isso sugere uma oportunidade de desenvolver estratégias de marketing e produtos que se concentrem nas necessidades e preferências desse grupo demográfico específico, o que poderia levar a uma maior retenção de clientes e maior receita.
 
-
 ---
 
 ## **Painel de controle (dashboard) no Google Sheets**
