@@ -46,6 +46,8 @@ Esse objetivo é alcançado por meio dos seguintes subobjetivos:
 - Ferramentas de anotações - Notion: https://www.notion.so/Laboratoria-480a7301ad034cd2b0710147b70d011d?pvs=4 
 - ferramentas de visualização : Spreadsheets(Google Planilhas)
 - Ferramenta do documentação e explicação do projeto - GitHub: https://github.com/marianelaruiz/SegementacaoRFM-mercado
+- Apresentação - Google Slides: https://docs.google.com/presentation/d/1tsVgKR8MRm-sWEXOJffClDikv-GXRY18NPC_6vMoeeE/edit#slide=id.gc6f980f91_0_0
+- Vídeo - Loom : https://www.loom.com/share/d2ce1adfdab34980a211f4889d710d8d?sid=cdd40b56-5513-44e9-aa8b-3b35f964b47d
 
 ---
 
