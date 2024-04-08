@@ -46,9 +46,8 @@ Esse objetivo é alcançado por meio dos seguintes subobjetivos:
 
 ## **Ferramentas e Tecnologias**
 - Ferramentas de anotações - Notion: https://www.notion.so/Laboratoria-480a7301ad034cd2b0710147b70d011d?pvs=4 
-- ferramentas de visualização : Spreadsheets(Google Planilhas)
-- Ferramenta do documentação e explicação do projeto - GitHub: https://github.com/marianelaruiz/SegementacaoRFM-mercado
-
+- ferramentas de visualização : Spreadsheets(Google Planilhas) e google slides.
+- Tecnologias: chat gpt https://chat.openai.com/
 ---
 
 ## **Fontes de dados**
