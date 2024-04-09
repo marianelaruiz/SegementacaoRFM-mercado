@@ -6,6 +6,7 @@
   - [**Introdução**](#introdução)
   - [**Objetivo**](#objetivo)
   - [**Equipe**](#equipe)
+  - [**Ficha Técnica**](#ficha-tecnica)
   - [**Fontes de dados**](#fonte-de-dados)
   - [**Ferramentas e Tecnologias**](#ferramentas-e-tecnologias)
   - [**Processamento e análises**](#rocessamento-e-análises)
