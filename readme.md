@@ -44,8 +44,13 @@ Esse objetivo é alcançado por meio dos seguintes subobjetivos:
  - Marianela Ruiz
 ---
 
-## **Ferramentas e Tecnologias**
-- Ferramentas de anotações - Notion: https://www.notion.so/Laboratoria-480a7301ad034cd2b0710147b70d011d?pvs=4 
+
+## **Ficha Técnica**
+
+ - https://www.notion.so/Ficha-T-cnica-e97487a656274266bc9890a4092ab26a?pvs=4
+---
+
+## **Ferramentas e Tecnologias** 
 - ferramentas de visualização : Spreadsheets(Google Planilhas) e google slides.
 - Tecnologias: chat gpt https://chat.openai.com/
 ---
@@ -65,8 +70,6 @@ Realizei várias etapas para preparar os dados para análise, incluindo:
 - Criar novas variáveis, como idade, total de compras, faixa etária, número de compras na loja e em línea para facilitar o uso dos dados.
 - Adicionar novas colunas, como segmento RFM, para categorizar os clientes e analisá-los de acordo com as categorias.
  - Remover os valores discrepantes, especialmente em relação à idade. Encontrei alguns outliers que provavelmente são erros de registro no banco de dados ou clientes que usam os dados de outras pessoas, então os removi para melhorar a precisão da análise.
-- Os dados fora do escopo da análise foram identificados como clientes que têm transações após junho de 2022, já que o escopo da análise do estudo é do período de 30/07/2020 a 29/06/2022, então decidi remover esses clientes.
-- As medidas de posição foram usadas para segmentar os clientes por quintis, porque isso permite uma melhor interpretação das metas de dados e atende às necessidades da empresa.
 - Agrupar os clientes por seu comportamento de compras, precisamos saber o número de dias desde que o cliente fez sua última compra (Recência), quantas vezes ele fez compras (Frequência) e quanto gastou em suas compras (Monetário). A segmentação RFM foi usada para obter essas variáveis. As variáveis obtidas serão usadas como insumos para a análise RFM, para determinar os grupos de clientes existentes na empresa.
 
 
