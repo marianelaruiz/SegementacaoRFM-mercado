@@ -48,7 +48,7 @@ Esse objetivo é alcançado por meio dos seguintes subobjetivos:
 
 ## **Ficha Técnica**
 
- - https://www.notion.so/Ficha-T-cnica-e97487a656274266bc9890a4092ab26a?pvs=4
+ - https://scratch-bean-ca0.notion.site/Ficha-T-cnica-e97487a656274266bc9890a4092ab26a
 ---
 
 ## **Ferramentas e Tecnologias** 
