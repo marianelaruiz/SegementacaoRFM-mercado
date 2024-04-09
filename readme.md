@@ -69,7 +69,6 @@ Realizei várias etapas para preparar os dados para análise, incluindo:
 - Remover clientes que eram duplicados en la tabela resumo_compras, deixando-os apenas uma vez.
 - Editar valores vazios, da tabela de clientes, tinha 24 valores vazios na coluna salario_anual. Usei a medida de tendência central: mediana, para obter o valor médio do salário anual dos clientes. A mediana foi usada porque não é propensa a valores dispersos.
 - Criar novas variáveis, como idade, total de compras, faixa etária, número de compras na loja e em línea para facilitar o uso dos dados.
-- Adicionar novas colunas, como segmento RFM, para categorizar os clientes e analisá-los de acordo com as categorias.
  - Remover os valores discrepantes, especialmente em relação à idade. Encontrei alguns outliers que provavelmente são erros de registro no banco de dados ou clientes que usam os dados de outras pessoas, então os removi para melhorar a precisão da análise.
 - Agrupar os clientes por seu comportamento de compras, precisamos saber o número de dias desde que o cliente fez sua última compra (Recência), quantas vezes ele fez compras (Frequência) e quanto gastou em suas compras (Monetário). A segmentação RFM foi usada para obter essas variáveis. As variáveis obtidas serão usadas como insumos para a análise RFM, para determinar os grupos de clientes existentes na empresa.
 
